@@ -6,6 +6,7 @@ I build backend systems, data platforms, and AI-powered applications
 with a focus on scalable architecture, intelligent automation, and
 real-world engineering problems.
 
+An engineer by discipline, a TEDx speaker by experience, a storyteller by curiosity, and a lifelong learner by choice.
 ---
 
 ## ⚡ Tech Stack
