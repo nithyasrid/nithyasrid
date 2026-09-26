@@ -1,6 +1,8 @@
 # Hi, I'm Nithya Sri D
 
-### Software Engineer • Data Engineer • AI Upskiller • Emerging Tech Learner
+### Software Engineer • Data Engineering Principle • AI Upskiller • Emerging Tech Learner
+
+Java Full Stack → Data Engineering → AI & Agentic Systems → Emerging Tech
 
 I build backend systems, data platforms, and AI-powered applications
 with a focus on scalable architecture, intelligent automation, and
