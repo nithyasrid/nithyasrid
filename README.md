@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Nithya Sri
+# Hi, I'm Nithya Sri D
 
-### Software Engineer • Data Engineer • AI Enthusiast
+### Software Engineer • Data Engineer • AI Upskiller • Emerging Tech Learner
 
 I build backend systems, data platforms, and AI-powered applications
 with a focus on scalable architecture, intelligent automation, and
@@ -80,48 +80,50 @@ real-world engineering problems.
 ## 📌 Featured Projects
 
 ### 🛒 ShopFlow
-**Intelligent E-Commerce Data Platform**
-
-`Java` `Python` `Spring Boot` `Kafka` `Spark` `Airflow` `PostgreSQL` `BigQuery`
+> End-to-end e-commerce data platform processing customer, order, payment, inventory, and product events across real-time and batch workflows.
+`Java` `Python` `SQL` `Spring Boot` `PostgreSQL` `Kafka` `Spark` `Airflow` `BigQuery`
 
 ### 🚚 CargoPulse 2.0
-**Smart Supply Chain Intelligence Platform**
-
-`Java` `Python` `Spring Boot` `Kafka` `Spark` `Airflow` `Docker`
+> Supply-chain intelligence platform processing shipment, inventory, warehouse, fleet, and delivery events through batch and streaming pipelines.
+`Java` `Python` `SQL` `Spring Boot` `PostgreSQL` `Kafka` `Spark` `Airflow` `BigQuery` `Docker`
 
 ### 🏥 MediTrust
-**Hospital Data Reliability & Patient Safety Platform**
+> Healthcare data reliability platform designed to identify duplicate, missing, invalid, and inconsistent records for safer hospital operations.
+`Java` `Python` `SQL` `Spring Boot` `PostgreSQL` `Kafka` `Spark` `Airflow` `BigQuery`
 
-`Java` `Python` `SQL` `Spark` `Kafka` `Airflow` `BigQuery`
+### ⚡ FlashScale
+> High-concurrency flash-sale platform designed to handle limited inventory and simultaneous purchase requests reliably.
+`Java 21` `Spring Boot` `PostgreSQL` `Redis` `Kafka` `Docker` `JUnit` `Mockito`
 
-### 🤖 Journey Recovery AI
-**Autonomous Agentic Travel Disruption Recovery Platform**
+### 🔄 EventMesh
+> Distributed job-execution platform for asynchronous task submission, worker coordination, execution, and monitoring.
+`Java 21` `Spring Boot` `Kafka` `PostgreSQL` `Docker` `JUnit` `Mockito`
 
-`Python` `LangGraph` `FastAPI` `LLMs` `Kafka` `PostgreSQL`
+### 🔐 Sentinel
+> Distributed identity and access-management platform providing secure authentication and authorization for backend services.
+`Java 21` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Redis` `Docker`
 
-### 🧠 LLM Quality Auditor
-**LLM Evaluation & Risk Monitoring Platform**
-
-`Python` `FastAPI` `PostgreSQL` `Streamlit` `Docker`
+### 🌉 SkillBridge
+> Interactive skill-visualization platform that maps candidate skills to supporting evidence and presents them through a recruiter-focused interface.
+`React` `Vite` `JavaScript` `CSS` `Lucide React` `Netlify` `GitHub`
 
 ---
 
 ## 🎯 Current Focus
+**Java Full Stack / SDE**
+
+Java → HTML/CSS/JavaScript → Spring Boot → REST APIs → JPA/Hibernate → PostgreSQL → Kafka → System Design
 
 **Data Engineering**
 
 Python → SQL → Spark → Kafka → Airflow → Cloud → Data Architecture
 
-**Backend / SDE**
-
-Java → DSA → Spring Boot → PostgreSQL → Kafka → Distributed Systems → System Design
-
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Advanced Level Winner — PyExpo24
-- 🎤 Selected TEDx Speaker
+- 🎤 TEDx Speaker
+- 🥇 Advanced Level Winner — PyExpo24 - Received 15,000 cash price.
 
 ---
 
@@ -137,7 +139,7 @@ KGiSL Institute of Technology · 2023–2027
 📍 Tamil Nadu, India
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithyasrid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/nithya-sri-d-b94b86281/))
 
 ---
 
