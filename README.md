@@ -146,7 +146,7 @@ Python → SQL → Spark → Kafka → Airflow → Cloud → Data Architecture
 ## 🏆 Achievements
 
 - 🎤 TEDx Speaker
-- 🥇 Advanced Level Winner — PyExpo24 - Received 15,000 cash price.
+- 🥇 Advanced Level Winner — PyExpo24 - Received ₹15,000 cash price.
 
 ---
 
