@@ -79,6 +79,27 @@ An engineer by discipline, a TEDx speaker by experience, a storyteller by curios
 - 🗄️ Data Platforms & Analytics Systems
 
 ---
+## 🥤 Your Complementary Drink
+
+After all the Java, Kafka, Spark, Spring Boot and system design...
+
+Here's something that doesn't require debugging.
+
+### EARTH & RIPPLE
+
+**Move the sand.  
+Disturb the water.  
+Take a breath.**
+
+A tiny interactive stress-buster for your 30-second break.
+
+**[→ Take a sip](https://nithyasrid.github.io/earth-and-ripple/)**
+
+> Just things to move.
+
+
+---
+
 
 ## 📌 Featured Projects
 
