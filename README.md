@@ -78,7 +78,7 @@ An engineer by discipline, a TEDx speaker by experience, a storyteller by curios
 - 🗄️ Data Platforms & Analytics Systems
 
 ---
-## 🥤 Your Complementary Drink
+##  Your Complementary
 
 After all the Java, Kafka, Spark, Spring Boot and system design...
 
@@ -92,7 +92,7 @@ Take a breath.**
 
 A tiny interactive stress-buster for your 30-second break.
 
-**[→ Take a sip](https://nithyasrid.github.io/earth-and-ripple/)**
+**[→ Take a look](https://nithyasrid.github.io/earth-and-ripple/)**
 
 > Just things to move.
 
